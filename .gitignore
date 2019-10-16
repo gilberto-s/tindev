@@ -1,32 +1,4 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@gilberto-s
-Learn Git and GitHub without any code!
-
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-2
-78
-
-    19
-
-filipedeschamps/tindev
-Code
-Issues 0
-Pull requests 1
-Actions
-Projects 0
-Wiki
-Security
-Insights
-tindev/.gitignore
-@filipedeschamps filipedeschamps First and only commit :) 19b688c 18 days ago
-64 lines (45 sloc) 925 Bytes
-.DS_Store
+frontend/build/
 
 # Logs
 logs
@@ -86,21 +58,3 @@ typings/
 
 # dotenv environment variables file
 .env
-
-# next.js build output
-.next
-
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
