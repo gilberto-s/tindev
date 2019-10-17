@@ -19,7 +19,7 @@ io.on('connection', socket => {
 });
 
 mongoose.connect(
-    'mongodb+srv://omnistack:omnistack@cluster0-ebdd2.mongodb.net/test?retryWrites=true&w=majority', {
+    'mongodb://localhost:27017/omnistack8', {
         useNewUrlParser: true
 });
 
